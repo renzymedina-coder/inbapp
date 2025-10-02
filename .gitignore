@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+nombre_del_archivo.zip
+node_modules/
+build/
+*.log
