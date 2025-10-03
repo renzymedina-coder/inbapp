@@ -24,5 +24,7 @@ yarn-error.log*
 
 nombre_del_archivo.zip
 node_modules/
-build/
+.env
 *.log
+dist/
+build/
